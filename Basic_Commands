@@ -1,0 +1,56 @@
+    /ability: Grants or revokes specific abilities to players.
+    /alwaysday: Toggles day and night cycles, making it always daytime.
+    /clear: Removes items from a player's inventory.
+    /clone: Copies blocks from one location to another.
+    /connect: Joins a player to a server.
+    /deop: Removes operator status from a player.
+    /difficulty: Sets the game's difficulty level (peaceful, easy, normal, or hard).
+    /effect: Applies status effects to players or entities.
+    /enchant: Enchants an item in a player's inventory.
+    /execute: Runs commands as another entity.
+    /fill: Fills a specified area with blocks.
+    /fog: Adjusts the fog settings.
+    /function: Runs a function.
+    /gamemode: Changes a player's game mode (survival, creative, adventure, or spectator).
+    /gamerule: Modifies game rules/settings.
+    /give: Adds items to a player's inventory.
+    /help: Displays a list of available commands.
+    /immutableworld: Toggles the world's immutability.
+    /kill: Kills entities or players.
+    /list: Lists players on the server.
+    /locate: Finds the nearest structure.
+    /me: Sends a chat message in the third person.
+    /mixer: Manages Mixer interactions (if enabled).
+    /mobevent: Triggers custom mob events.
+    /op: Grants operator status to a player.
+    /particle: Creates particles.
+    /playsound: Plays a sound.
+    /reload: Reloads resource packs, loot tables, and advancements.
+    /replaceitem: Modifies items in a player's inventory.
+    /say: Sends a chat message as the server.
+    /scoreboard: Manages scoreboards and player scores.
+    /setmaxplayers: Sets the maximum number of players for the server.
+    /setblock: Changes blocks at a specific location.
+    /setworldspawn: Sets the world's spawn point.
+    /spawnpoint: Sets a player's spawn point.
+    /spreadplayers: Teleports entities randomly within an area.
+    /stopsound: Stops playing specific sounds.
+    /summon: Creates entities.
+    /tag: Manages entity tags.
+    /teleport: Moves players or entities to specified coordinates.
+    /tellraw: Sends a JSON-formatted message.
+    /testfor: Checks for the existence of entities or players.
+    /testforblock: Checks for specific blocks at a location.
+    /testforblocks: Compares two areas for block matches.
+    /tickingarea: Manages ticking areas (if enabled).
+    /time: Sets or queries the in-game time.
+    /title: Manages titles and subtitles.
+    /titleraw: Sends a JSON-formatted title message.
+    /toggledownfall: Toggles rain and snow.
+    /tp: Teleports players or entities.
+    /videostream: Manages video streams (if enabled).
+    /videostreamaction: Performs actions on video streams (if enabled).
+    /weather: Sets the weather (clear, rain, thunderstorm).
+    /worldbuilder: Manages the world builder status.
+    /wsserver: Connects to WebSocket servers.
+    /xp: Modifies player experience levels.
